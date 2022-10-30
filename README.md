@@ -7,7 +7,7 @@
 4. Github cli
 
 ```
-xenv
+venv
 ```
 pip install -r requirements.txt
 
