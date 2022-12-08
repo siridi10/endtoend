@@ -3,7 +3,7 @@ from typing import List
 
 # declaring variable for setup function
 Project_name="Housing-Predictior"
-Version="0.0.2"
+Version="0.0.4"
 Author="Siridi Nath"
 Desciption="Fist End to end project"
 Requirement_file_name="requirements.txt"
