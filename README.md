@@ -11,6 +11,11 @@ venv
 ```
 pip install -r requirements.txt
 
+```
+For activating Environment <br>
+conda activate venv/
+```
+
 ## To have a CD/CI pipeline for heroku
 1. Heroku mail - siridirock@gmail.com
 2. Heroku Api - 75ec8ea4-da80-4f28-9f0b-0ae10f80de84
