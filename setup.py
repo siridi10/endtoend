@@ -13,11 +13,9 @@ def get_requirements_list()->List[str]:
     desc:this function is going to return list of requirements mention in requirements.txt
     return:this function is going to return list of libraries mentioned in requirements.txt
     """
-
+    
     with open(Requirement_file_name) as Requirement_file:
         return Requirement_file.readlines().remove("-e .")
-
-
 setup(
 name=Project_name,
 version=Version,
